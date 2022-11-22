@@ -1,5 +1,5 @@
 const Service = require("node-windows").Service;
-const EventLogger = require('node-windows').EventLogger;
+const EventLogger = require("node-windows").EventLogger;
 const fs = require("fs");
 const path = require("path");
 
